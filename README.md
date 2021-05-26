@@ -3,4 +3,4 @@ PID controller written in Python and ROS for stabilization of Parrot Bebop 2 dro
 
 # Subheader
 
-This was a team project done in coordinance with 10 people with three sub - teams. One being the quadrotor control team.
+This was a team project done in coordinance with 10 people with three sub - teams. One being the quadrotor control team of which I was the lead in.
